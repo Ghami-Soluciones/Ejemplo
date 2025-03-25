@@ -11,6 +11,7 @@ public class Main {
 //		Mesero yo = new Mesero("ghami","1234");
 //		Mesero Tomas = new Mesero("Tomas","1234");
 //		
+		//"HOLA :D"
 		Mesero.Registrar("Axel", "4321");
 		Mesero.Registrar("Seba", "4221");
 
